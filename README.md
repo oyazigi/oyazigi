@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![oyazigi Status](https://github-readme-stats.vercel.app/api?username=oyazigi&show_icons=true)
 <!--
 **oyazigi/oyazigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
