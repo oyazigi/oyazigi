@@ -62,7 +62,7 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 
       
-
+![snake gif](https://github.com/oyazigi/oyazigi/blob/output/github-contribution-grid-snake.svg)
 </p>
 
-![snake gif](https://github.com/oyazigi/oyazigi/blob/output/github-contribution-grid-snake.svg)
+
