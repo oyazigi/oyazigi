@@ -61,8 +61,6 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCwXRhOV3Dmc5HC5nVySIQYg">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 
-      
-![snake gif](https://github.com/oyazigi/oyazigi/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
