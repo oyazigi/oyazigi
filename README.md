@@ -1,6 +1,6 @@
 <h1 align="center">Victor Yazigi</h1>
 <p align="center">
-  <a href="https://github.com/oyazigi"><img src="https://readme-typing-svg.herokuapp.com?font=Pacific&size=32&duration=3000&pause=1000&width=800&height=120&lines=Desenvolvedor+Full+Stack;Formado+em+ADS;Um+ano+de+experi%C3%AAncia+profissional+back-end" alt="Typing SVG" /></a>
+  <a href="https://github.com/oyazigi"><img src="https://readme-typing-svg.herokuapp.com?font=Pacific&size=32&duration=3000&pause=1000&center=true&width=800&height=120&lines=Desenvolvedor+Full+Stack;Formado+em+ADS;Um+ano+de+experi%C3%AAncia+profissional+back-end" alt="Typing SVG" /></a>
 </p>
 
 <p align='center'>
