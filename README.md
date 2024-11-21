@@ -23,7 +23,7 @@
 <h2 align="left" font-weight="bold">Sobre mim</h2>  
 <br><br>
 
-- :Sou um desenvolvedor júnior com paixão pelo desenvolvimento web e desktop e atualmente estudo Análise e desenvolvimento de sistemas na faculdade de tecnologia de São Paulo, neste espaço vou deixar minhas contribuições pessoais para deixar evidente o meu portfólio #OpenToWork.
+- :Sou um desenvolvedor júnior com paixão pelo desenvolvimento web e desktop, formado em Análise e desenvolvimento de sistemas na faculdade de tecnologia de São Paulo, neste espaço vou deixar minhas contribuições pessoais para evidenciar meu portfólio #OpenToWork.
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oyazigi&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
