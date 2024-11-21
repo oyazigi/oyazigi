@@ -1,6 +1,6 @@
 <h1 align="center"> Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/oyazigi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full%20Stack;2%2B%20anos%20de%20experiência%20acadêmica;sempre%20estudando%20novas%20tecnologias&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/oyazigi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full%20Stack;Formado%2B%20em%20%ADS%;sempre%20estudando%20novas%20tecnologias&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align='center'>
