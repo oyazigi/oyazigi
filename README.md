@@ -1,4 +1,4 @@
-<h1 align="center"> Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Victor Yazigi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/oyazigi"><img src="https://readme-typing-svg.herokuapp.com?font=Pacific&size=32&duration=3000&pause=1000&width=800&height=120&lines=Desenvolvedor+Full+Stack;Formado+em+ADS;Um+ano+de+experi%C3%AAncia+profissional+back-end" alt="Typing SVG" /></a>
 </p>
